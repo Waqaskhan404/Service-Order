@@ -1,0 +1,215 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+body {
+  background: #fff;
+  box-sizing: border-box;
+  margin: 0 auto;
+  font-family: "Roboto";
+}
+.line-div {
+  border-bottom: 2px black solid;
+  padding-top: 10px;
+  width: 61%;
+  opacity: 0.25;
+  margin: 0 auto;
+}
+.heading-warpper {
+  width: 61%;
+  margin: 0 auto;
+}
+.main-wrapper {
+  padding-left: 10px;
+  border: 2px solid #0000004a;
+  width: 60%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+}
+.main-heading {
+  color: #f77700;
+  font-weight: 700;
+  margin-bottom: 7px;
+  font-size: 15px;
+  margin-top: 7px;
+}
+.customer-inner-main {
+  display: flex;
+}
+.customer-detail-left {
+  width: 50%;
+}
+.customer-detail-right {
+  width: 50%;
+}
+.customer-heading {
+  font-size: 16px;
+  color: #0000ffdb;
+  margin-bottom: 0px;
+}
+.inner-line-div {
+  border-bottom: 2px black solid;
+  padding-top: 2px;
+  width: 99%;
+  opacity: 0.25;
+}
+h4 {
+  margin-bottom: 0px;
+  font-size: 12px;
+}
+.name-heading {
+  display: flex;
+}
+.name-tag {
+  padding-right: 10px;
+}
+.user-name {
+  padding-left: 74px;
+  font-weight: 400;
+}
+.email {
+  padding-left: 76px !important;
+}
+.address-one {
+  padding-left: 60px;
+  font-weight: 400;
+}
+.city {
+  padding-left: 85px;
+  font-weight: 400;
+}
+.zip-code {
+  padding-left: 58px !important;
+}
+.phone-two {
+  padding-bottom: 10px;
+  padding-left: 88px !important;
+}
+.address-two {
+  padding-left: 75px !important;
+}
+.status {
+  padding-left: 106px;
+}
+.state {
+  padding-left: 100px !important;
+}
+.finished {
+  color: lightgreen;
+}
+.service-unit {
+  padding-left: 82px !important;
+}
+.service-order {
+  padding-left: 78px !important;
+}
+.cod {
+  padding-left: 124px !important;
+}
+.payment-type {
+  padding-left: 75px !important;
+}
+.service-order-detail {
+  padding-left: 41px !important;
+}
+.scheduled-at {
+  padding-left: 112px !important;
+}
+.started-at {
+  padding-left: 128px !important;
+}
+.finished-at {
+  padding-left: 121px;
+}
+.account {
+  padding-left: 136px !important;
+}
+.payment-detail {
+  padding-left: 100px !important;
+}
+.service-inner-main {
+  display: flex;
+  padding-top: 15px;
+}
+.delivered {
+  border: 1px solid #c0c0c0;
+  width: 10%;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 5px;
+}
+.description {
+  border: 1px solid #c0c0c0;
+  width: 48%;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 5px;
+}
+.sku {
+  border: 1px solid #c0c0c0;
+  width: 20%;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 5px;
+}
+.qty {
+  border: 1px solid #c0c0c0;
+  width: 4.3%;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 5px;
+}
+.amt {
+  border: 1px solid #c0c0c0;
+  width: 10%;
+  font-weight: 700;
+  font-size: 14px;
+  padding: 5px;
+}
+.service-inner-dece {
+  display: flex;
+  font-size: 14px;
+}
+.unset-weight {
+  font-weight: unset !important;
+}
+.route-label {
+  padding-left: 170px;
+}
+.store-code {
+  padding-left: 174px;
+}
+.sales-person {
+  padding-left: 170px;
+}
+.additional-detail-inner {
+  padding-bottom: 200px;
+}
+.signature-paragraph p {
+  font-size: 14px;
+  width: 96%;
+}
+.signature-img {
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+}
+.furnature-img {
+  padding-top: 13px;
+}
+.image-inner {
+  padding-bottom: 400px;
+}
+.activity-line {
+  font-size: 15px;
+  margin-bottom: 3px;
+  font-style: italic;
+}
+.dot-line {
+  border-top-style: dotted;
+  width: 99%;
+  color: #00000029;
+}
+span {
+  font-weight: 700;
+}
+.activity-bottom-space {
+  padding-bottom: 20px;
+}
